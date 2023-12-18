@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waqas76951
+- 👋 Hi, I’m Waqas Akram
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning coding.
 
